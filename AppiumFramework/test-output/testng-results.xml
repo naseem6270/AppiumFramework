@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Fetching text value from Header Movie Section]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on View All button against the section Bollywood Mania]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element View All Button]]>
+    </line>
+    <line>
+      <![CDATA[No record found with no thumbnail on the page Bollywood Mania]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element Navigation Back Button]]>
+    </line>
+    <line>
+      <![CDATA[Fetching text value from Header Movie Section]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on View All button against the section Marathi Dhamaal]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element View All Button]]>
+    </line>
+    <line>
+      <![CDATA[Found record with no Thumbnail with the name as : Be Dune Saade Char]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element Content with record Be Dune Saade Char]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element Navigation Back Button]]>
+    </line>
+    <line>
+      <![CDATA[Found record with no Thumbnail with the name as : Gast]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element Content with record Gast]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element Navigation Back Button]]>
+    </line>
+    <line>
+      <![CDATA[Found record with no Thumbnail with the name as : Vegali Vaat]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element Content with record Vegali Vaat]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element Navigation Back Button]]>
+    </line>
+    <line>
+      <![CDATA[Total number of records found with no thumbnail in the page Marathi Dhamaal is: 3]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element Navigation Back Button]]>
+    </line>
+    <line>
+      <![CDATA[Fetching text value from Header Movie Section]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on View All button against the section Best In Comedy]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element View All Button]]>
+    </line>
+    <line>
+      <![CDATA[No record found with no thumbnail on the page Best In Comedy]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element Navigation Back Button]]>
+    </line>
+    <line>
+      <![CDATA[Fetching text value from Header Movie Section]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on View All button against the section ZEE5 Original Shows]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element View All Button]]>
+    </line>
+    <line>
+      <![CDATA[No record found with no thumbnail on the page ZEE5 Original Shows]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element Navigation Back Button]]>
+    </line>
+    <line>
+      <![CDATA[Fetching text value from Header Movie Section]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on View All button against the section Bollywood Action]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element View All Button]]>
+    </line>
+    <line>
+      <![CDATA[Found record with no Thumbnail with the name as : Shaurya]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element Content with record Shaurya]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element Navigation Back Button]]>
+    </line>
+    <line>
+      <![CDATA[Total number of records found with no thumbnail in the page Bollywood Action is: 1]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Element Navigation Back Button]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-03-21T10:20:38 IST" name="Suite" finished-at="2022-03-21T10:23:26 IST" duration-ms="168547">
+    <groups>
+    </groups>
+    <test started-at="2022-03-21T10:20:38 IST" name="Test" finished-at="2022-03-21T10:23:26 IST" duration-ms="168547">
+      <class name="com.qa.tests.FetchMissingThumbnails">
+        <test-method is-config="true" signature="beforeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.FetchMissingThumbnails@4686afc2]" started-at="2022-03-21T10:20:38 IST" name="beforeTest" finished-at="2022-03-21T10:20:49 IST" duration-ms="11291" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[USXWMRLVIF4XKZIB]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[USXWMRLVIF4XKZIB]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[android]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.FetchMissingThumbnails@4686afc2]" started-at="2022-03-21T10:20:49 IST" name="beforeMethod" finished-at="2022-03-21T10:20:49 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.FetchMissingThumbnails.FindingAllContentsWithNoThumbNail() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="FindingAllContentsWithNoThumbNail()[pri:1, instance:com.qa.tests.FetchMissingThumbnails@4686afc2]" started-at="2022-03-21T10:20:49 IST" name="FindingAllContentsWithNoThumbNail" finished-at="2022-03-21T10:23:25 IST" duration-ms="156640" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Fetching text value from Header Movie Section]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on View All button against the section Bollywood Mania]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element View All Button]]>
+            </line>
+            <line>
+              <![CDATA[No record found with no thumbnail on the page Bollywood Mania]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element Navigation Back Button]]>
+            </line>
+            <line>
+              <![CDATA[Fetching text value from Header Movie Section]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on View All button against the section Marathi Dhamaal]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element View All Button]]>
+            </line>
+            <line>
+              <![CDATA[Found record with no Thumbnail with the name as : Be Dune Saade Char]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element Content with record Be Dune Saade Char]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element Navigation Back Button]]>
+            </line>
+            <line>
+              <![CDATA[Found record with no Thumbnail with the name as : Gast]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element Content with record Gast]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element Navigation Back Button]]>
+            </line>
+            <line>
+              <![CDATA[Found record with no Thumbnail with the name as : Vegali Vaat]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element Content with record Vegali Vaat]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element Navigation Back Button]]>
+            </line>
+            <line>
+              <![CDATA[Total number of records found with no thumbnail in the page Marathi Dhamaal is: 3]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element Navigation Back Button]]>
+            </line>
+            <line>
+              <![CDATA[Fetching text value from Header Movie Section]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on View All button against the section Best In Comedy]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element View All Button]]>
+            </line>
+            <line>
+              <![CDATA[No record found with no thumbnail on the page Best In Comedy]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element Navigation Back Button]]>
+            </line>
+            <line>
+              <![CDATA[Fetching text value from Header Movie Section]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on View All button against the section ZEE5 Original Shows]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element View All Button]]>
+            </line>
+            <line>
+              <![CDATA[No record found with no thumbnail on the page ZEE5 Original Shows]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element Navigation Back Button]]>
+            </line>
+            <line>
+              <![CDATA[Fetching text value from Header Movie Section]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on View All button against the section Bollywood Action]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element View All Button]]>
+            </line>
+            <line>
+              <![CDATA[Found record with no Thumbnail with the name as : Shaurya]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element Content with record Shaurya]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element Navigation Back Button]]>
+            </line>
+            <line>
+              <![CDATA[Total number of records found with no thumbnail in the page Bollywood Action is: 1]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Element Navigation Back Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- FindingAllContentsWithNoThumbNail -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.qa.tests.FetchMissingThumbnails@4686afc2]" started-at="2022-03-21T10:23:25 IST" name="afterTest" finished-at="2022-03-21T10:23:26 IST" duration-ms="570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qa.tests.FetchMissingThumbnails -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
